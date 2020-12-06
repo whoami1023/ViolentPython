@@ -1,0 +1,5 @@
+admin:12345
+guest:guest
+root:toor
+msfadmin:msfadmin
+text:text
